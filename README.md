@@ -9,7 +9,7 @@
 3. Run the application as spring boot appliction
 4. go to the browser and search for the localhost: port no and open the application and go through it
 
-##### Functions added in the project are
+### Functions added in the project are
 1. search bar for the product search
 2. add to cart feature
 3. user and admin login
